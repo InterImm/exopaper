@@ -6,4 +6,4 @@ A list of interesting papers about exoplanets, civilization, and Fermi paradox
 
 * [Kipping, D. M., & Teachey, A. (2016). A cloaking device for transiting planets. Monthly Notices of the Royal Astronomical Society, 459(2), 1233–1241. doi:10.1093/mnras/stw672](http://mnras.oxfordjournals.org/content/459/2/1233) (arXiv:603.08928): Using (peak power) 30MW monochromatic laser to cloak Earth only for 10 hours per year. Chromatic cloak can also be applied with 250MW laser. Cloaking atmosphere only is also possible at lower energy budget.
 
-  ​
+* [Lingam, M., & Loeb, A. (2017). Natural and Artificial Spectral Edges in Exoplanets.](http://arxiv.org/abs/1702.05500)
